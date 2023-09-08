@@ -19,7 +19,6 @@ console.log(accountId);
 prefer not to use var
 because of issue in block cscope and functional scopee
 
-
 */
 
 console.table([accountId,, accountEmail, accountPassword, accountCity, accountState])
